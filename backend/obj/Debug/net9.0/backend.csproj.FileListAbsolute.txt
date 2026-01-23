@@ -1,0 +1,15 @@
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\bin\Debug\net9.0\backend.exe
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\bin\Debug\net9.0\backend.deps.json
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\bin\Debug\net9.0\backend.dll
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\bin\Debug\net9.0\backend.pdb
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.dll
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.pdb
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Users\TishkaaPlay\Desktop\3 курс, 2 семестр\Тотьмянин ИСП232\ИСРПО\ИСРПО_тотьмянин_лаб_1\backend\obj\Debug\net9.0\ref\backend.dll
